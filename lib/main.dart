@@ -1,6 +1,7 @@
+import 'package:belniks/config/router/app_router.dart';
+import 'package:belniks/config/theme/app_theme.dart';
 import 'package:flutter/material.dart';
-import 'package:teslo_shop/config/config.dart';
-import 'package:teslo_shop/config/router/app_router.dart';
+import 'package:belniks/config/config.dart';
 
 void main() {
   runApp(const MainApp());
